@@ -1,4 +1,4 @@
-package com.alissondev.catalog;
+package com.github.youssfbr.catalog;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
